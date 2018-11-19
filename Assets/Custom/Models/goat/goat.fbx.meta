@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 2c0c383d6534543fcb2ccdf2e8f63289
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Goat_Rig_08_backAnkle_L
+    100004: Goat_Rig_08_backAnkle_R
+    100006: Goat_Rig_08_backHip_L
+    100008: Goat_Rig_08_backHip_R
+    100010: Goat_Rig_08_backToes1_L
+    100012: Goat_Rig_08_backToes1_R
+    100014: Goat_Rig_08_backToes2_L
+    100016: Goat_Rig_08_backToes2_R
+    100018: Goat_Rig_08_backToes3_L
+    100020: Goat_Rig_08_backToes3_R
+    100022: Goat_Rig_08_Chest_M
+    100024: Goat_Rig_08_DeformationSystem
+    100026: Goat_Rig_08_Ear_L
+    100028: Goat_Rig_08_Ear_R
+    100030: Goat_Rig_08_frontAnkle_L
+    100032: Goat_Rig_08_frontAnkle_R
+    100034: Goat_Rig_08_frontHip_L
+    100036: Goat_Rig_08_frontHip_R
+    100038: Goat_Rig_08_frontKnee_L
+    100040: Goat_Rig_08_frontKnee_R
+    100042: Goat_Rig_08_frontRump_L
+    100044: Goat_Rig_08_frontRump_R
+    100046: Goat_Rig_08_frontToes1_L
+    100048: Goat_Rig_08_frontToes1_R
+    100050: Goat_Rig_08_frontToes2_L
+    100052: Goat_Rig_08_frontToes2_R
+    100054: Goat_Rig_08_frontToes3_L
+    100056: Goat_Rig_08_frontToes3_R
+    100058: Goat_Rig_08_Goat
+    100060: Goat_Rig_08_goat1
+    100062: Goat_Rig_08_Head_M
+    100064: Goat_Rig_08_Jaw_M
+    100066: Goat_Rig_08_Main
+    100068: Goat_Rig_08_Neck1_M
+    100070: Goat_Rig_08_Neck_M
+    100072: Goat_Rig_08_Root_M
+    100074: Goat_Rig_08_Spine1_M
+    100076: Goat_Rig_08_Spine2_M
+    100078: Goat_Rig_08_Tail0_M
+    100080: Goat_Rig_08_Tail1_M
+    100082: Goat_Rig_08_Tail2_M
+    100084: Goat_Rig_08_Tail3_M
+    400000: //RootNode
+    400002: Goat_Rig_08_backAnkle_L
+    400004: Goat_Rig_08_backAnkle_R
+    400006: Goat_Rig_08_backHip_L
+    400008: Goat_Rig_08_backHip_R
+    400010: Goat_Rig_08_backToes1_L
+    400012: Goat_Rig_08_backToes1_R
+    400014: Goat_Rig_08_backToes2_L
+    400016: Goat_Rig_08_backToes2_R
+    400018: Goat_Rig_08_backToes3_L
+    400020: Goat_Rig_08_backToes3_R
+    400022: Goat_Rig_08_Chest_M
+    400024: Goat_Rig_08_DeformationSystem
+    400026: Goat_Rig_08_Ear_L
+    400028: Goat_Rig_08_Ear_R
+    400030: Goat_Rig_08_frontAnkle_L
+    400032: Goat_Rig_08_frontAnkle_R
+    400034: Goat_Rig_08_frontHip_L
+    400036: Goat_Rig_08_frontHip_R
+    400038: Goat_Rig_08_frontKnee_L
+    400040: Goat_Rig_08_frontKnee_R
+    400042: Goat_Rig_08_frontRump_L
+    400044: Goat_Rig_08_frontRump_R
+    400046: Goat_Rig_08_frontToes1_L
+    400048: Goat_Rig_08_frontToes1_R
+    400050: Goat_Rig_08_frontToes2_L
+    400052: Goat_Rig_08_frontToes2_R
+    400054: Goat_Rig_08_frontToes3_L
+    400056: Goat_Rig_08_frontToes3_R
+    400058: Goat_Rig_08_Goat
+    400060: Goat_Rig_08_goat1
+    400062: Goat_Rig_08_Head_M
+    400064: Goat_Rig_08_Jaw_M
+    400066: Goat_Rig_08_Main
+    400068: Goat_Rig_08_Neck1_M
+    400070: Goat_Rig_08_Neck_M
+    400072: Goat_Rig_08_Root_M
+    400074: Goat_Rig_08_Spine1_M
+    400076: Goat_Rig_08_Spine2_M
+    400078: Goat_Rig_08_Tail0_M
+    400080: Goat_Rig_08_Tail1_M
+    400082: Goat_Rig_08_Tail2_M
+    400084: Goat_Rig_08_Tail3_M
+    2100000: Goat_Rig_08_blinn12
+    4300000: Goat_Rig_08_goat1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Goat_Rig_08_goat1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Goat_Rig_08_blinn12
+    second: {fileID: 2100000, guid: f2464ae07db744b1c81c0b2f3de281d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
